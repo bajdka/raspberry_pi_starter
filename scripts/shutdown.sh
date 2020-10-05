@@ -1,0 +1,1 @@
+ssh pi@$RASPBERRY_PI_IP 'sudo shutdown -h now'
